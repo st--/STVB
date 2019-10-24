@@ -259,7 +259,7 @@ print('Saving results...')
 
 
 # String to save objects
-method = "MTSM"
+method = "STVB"
 suffix = method + "_" + str(function_type)
 
 if function_type == 1 or function_type ==2 or function_type ==3:
