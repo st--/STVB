@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Structured Variational Inference in Continuous Cox Process Models
+github:
+  is_project_page: false
