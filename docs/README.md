@@ -1,4 +1,4 @@
-## Additional Materia for the Paper
+## Contents
 
 * [Poster](poster.pdf){:target="_blank"}
 * [Slides](#link-to-slides)
